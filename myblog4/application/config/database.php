@@ -50,7 +50,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = ' qdm18939924.my3w.com';
 $db['default']['username'] = 'qdm18939924';
-$db['default']['password'] = '3756779xwd';
+$db['default']['password'] = '';
 $db['default']['database'] = 'qdm18939924_db';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
